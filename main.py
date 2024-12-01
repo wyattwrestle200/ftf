@@ -4,7 +4,7 @@ from PIL import ImageGrab
 from collections import Counter
 
 # Ensure Tesseract OCR is installed and pytesseract is correctly configured
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
 
 value_list = {
     # Tier 1
