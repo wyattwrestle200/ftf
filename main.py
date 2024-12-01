@@ -169,7 +169,7 @@ def monitor_trade_area(bounding_box):
 
 # Define the bounding box for the trade area on your screen (left, top, right, bottom)
 # You need to adjust these coordinates based on your screen resolution and trade window position
-bounding_box = (100, 100, 800, 600)
+bounding_box = (449, 226, 1468, 805)
 
 print("Monitoring trade area...")
 monitor_trade_area(bounding_box)
